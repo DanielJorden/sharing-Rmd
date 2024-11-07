@@ -1,0 +1,13 @@
+---
+title: "Sharing rmd"
+output: html_document
+date: "2024-11-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+Hello. This is me testing how to put a *RMarkdown* file on **GitHub**
+
